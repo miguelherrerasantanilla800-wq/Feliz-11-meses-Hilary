@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Feliz once meses",
+    "slug": "hilary-11meses",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "web": { "bundler": "metro" }
+  }
+}

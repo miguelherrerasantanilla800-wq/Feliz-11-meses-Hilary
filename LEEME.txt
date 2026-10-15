@@ -1,0 +1,5 @@
+Como ejecutarlo:
+1. Instala Node.js (nodejs.org)
+2. En esta carpeta ejecuta:  npm install
+3. Luego:  npx expo start
+4. Escanea el QR con la app "Expo Go" en tu celular (o presiona w para verlo en el navegador)
